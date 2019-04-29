@@ -1,0 +1,186 @@
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #BDBDBD;
+}
+
+#webpage-header {
+  height: 5%;
+  width: 100%;
+  margin-top: 1%;
+  position: relative;
+  border: solid 5px #FFEB3B;
+  background-color: #7B1FA2;
+}
+
+.services-name {
+  height: 10%;
+  width: 40%;
+  margin-left: 2%;
+  margin-top: 2%;
+  text-align: center;
+  color: white;
+  font-size: 130%;
+  font-family: 'Arial', serif;
+  font-style: oblique;
+  font-weight: bold;
+  float: left;
+  display: inline-block;
+}
+
+.header-image {
+  height: 10%;
+  width: 10%;
+  margin-left: 45%;
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+  display: inline-block;
+}
+.una-logo {
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+}
+#navbar-box {
+  height: 2.5%;
+  width: 100%;
+  margin-top: 0.5%;
+  border: solid 2.5px #FFEB3B;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #7B1FA2;
+}
+
+.navbar a {
+  width: 20%;
+  margin-left: 0%;
+  margin-top: 0%;
+  font-size: 150%;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  float: left;
+}
+
+.navbar a:hover {
+  height: 100%;
+  width: 20%;
+  background-color: #FFEB3B;
+  color: #7B1FA2;
+  border: solid 0.5px #7B1FA2;
+}
+
+#welcome-page {
+  height: 100%;
+  width: 30%;
+  display: inline;
+}
+
+.hero-image-one {
+  height: 100%;
+  width: 30%;
+  margin-left: 2%;
+  margin-top: 1%;
+  border: solid 5px #7B1FA2; 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0,   0, 0.5)),     url("https://www.una.edu/visit/images/Index,P20Overshot.jpg.pagespeed.ce.U4HO395aMY.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  float: left;
+  display: inline;
+}
+
+.hero-text-one h1 {
+  font-size: 400%;
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#parking-box {
+  width: 50%;
+  height: 100%;
+  margin-top: 1%;
+  margin-left: 8%;
+  padding-right: 1%;
+  background-color: #7B1FA2;
+  border: solid 5px #FFEB3B; 
+  display: inline-block;
+}
+
+#button-box {
+  width: 17.5%;
+  margin-left: 10%;
+  display: inline-block;
+}
+
+.type-one {
+  height: 100%;
+  width: 100%;
+  background-color: #7B1FA2;
+  display: inline-block;
+}
+
+button {
+  width: 100%;
+  height: 100%;
+  margin-top: 10%;
+  margin-left: 25%;
+  margin-bottom: 10%;
+  background-color: white;
+  color: #7B1FA2;
+  float: left;
+  display: inline-block;
+}
+
+#button-box h2 {
+  text-align: center;
+}
+
+button:hover {
+  width: 100%;
+  height: 100%;
+  background-color: #FFEB3B;
+  color: #7B1FA2;
+  float: left;
+  display: inline-block;
+}
+
+#submission-form {
+  width: 20%;
+  height: 10%;
+  margin-left: 10%;
+  margin-top: 2%;
+  text-align: center;
+  background-color: #7B1FA2;
+  display: inline-block;
+}
+
+label {
+  font-size: 150%;
+  color: white;
+}
+
+#big-button {
+  height: 100%;
+  width: 300%;
+  margin-left: 62.5%;
+  margin-top: 10%;
+  font-size: 200%;
+}
+
+#console-box {
+  height:100%;
+  width: 30%;
+  margin-top: -20%;
+  margin-left: 2%;
+  background-color: #7B1FA2;
+  border: solid 5px white;
+  font-family: 'Arial', serif;
+  font-style: italic;
+  color: #FFEB3B;
+  float: left;
+  display: inline-block;
+}
